@@ -64,5 +64,5 @@ export async function getstaticProps() {
 
 }
 
-//Timestamp: 29.59
+//Timestamp: 31:45
 //https://www.youtube.com/watch?v=y47gYvXchXM
