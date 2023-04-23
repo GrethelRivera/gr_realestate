@@ -7,9 +7,9 @@ export interface PersonProps{
 }
 
 const mockPerson: PersonProps = {
-    name: "Satan",
-    age: 666,
-    gender: "Nonbinary"
+    name: "Saturn",
+    age: 612,
+    gender: "Female"
 }
 
 const Person: FC <{person: PersonProps}>= (props) =>{
